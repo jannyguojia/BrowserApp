@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GuoWeb</string>
+    <string name="his">History</string>
+    <string name="History">Back</string>
+    <string name="Empty">Clear History</string>
+    <string name="test_url">History</string>
+    <string name="empty_url">Clear History</string>
+    <string name="space" />
+    <string name="item_clicked">item clicked</string>
+</resources>
